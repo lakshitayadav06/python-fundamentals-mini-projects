@@ -1,0 +1,32 @@
+first_name = "lux"
+food="pizza"
+
+#integer
+age = 25
+quantity = 3
+num_of_students = 30
+print(f"you are {age} years old")
+print(f"hello{first_name}")
+
+#float
+price = 10.99
+gpa = 3.2
+distance = 5.5
+
+print(f"the price is ${price}")
+print(f"your GPA is {gpa}")
+print(f"you ran {distance}km")
+
+#booleans
+
+is_student ='true'
+for_sale ='false'
+is_online ='true'
+
+if is_student :
+    print("you are a student")
+else:
+    print("that item is not available")
+
+
+
